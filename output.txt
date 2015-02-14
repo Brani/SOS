@@ -1,0 +1,70 @@
+                          FINAL STATISTICS
+
+
+
+ * * * SYSTEM STATUS AT 900003 * * *
+ ===================================
+
+ CPU:  job #426 running
+ Disk running for job 295 since 899928
+ Drum:  idle
+Memory:  64 K words in use
+Average dilation:  6.13
+Average Response time:  7397.33
+
+
+				CORE MAP
+
+ Partition Job    Partition Job    Partition Job    Partition Job   
+
+      0	   426	      25    426	       50    295  	75    0
+      1	   426	      26    426	       51    295  	76    0
+      2	   426	      27    426	       52    295  	77    0
+      3	   426	      28    426	       53    295  	78    0
+      4	   426	      29    426	       54    295  	79    0
+      5	   426	      30    426	       55    295  	80    0
+      6	   426	      31    426	       56    295  	81    0
+      7	   426	      32    426	       57    295  	82    0
+      8	   426	      33    426	       58    295  	83    0
+      9	   426	      34    426	       59    295  	84    0
+     10	   426	      35    426	       60    295  	85    0
+     11	   426	      36    426	       61    295  	86    0
+     12	   426	      37    426	       62    295  	87    0
+     13	   426	      38    426	       63    295  	88    0
+     14	   426	      39    426	       64    0  	89    0
+     15	   426	      40    426	       65    0  	90    0
+     16	   426	      41    426	       66    0  	91    0
+     17	   426	      42    426	       67    0  	92    0
+     18	   426	      43    426	       68    0  	93    0
+     19	   426	      44    426	       69    0  	94    0
+     20	   426	      45    426	       70    0  	95    0
+     21	   426	      46    426	       71    0  	96    0
+     22	   426	      47    295	       72    0  	97    0
+     23	   426	      48    295	       73    0  	98    0
+     24	   426	      49    295	       74    0  	99    0
+
+
+
+			JOBTABLE
+
+Job#  Size  Time CPUTime MaxCPU  I/O's Priority Blocked  Latched InCore Term
+          Arrived  Used  Time   Pending
+
+
+ 455   30  896035      6     14    1      2       yes     no      no      no 
+ 456   47  896045      0  65000    0      5       no      no      no      no 
+ 295   17  580051   2220   5300    1      2       yes     yes     yes     no 
+ 366   47  718304     78  65000    1      5       yes     no      no      no 
+ 426   47  836798   9349  65000    0      5       no      no      yes     no 
+ 246   47  481316    102  65000    1      5       yes     no      no      no 
+ 306   47  599810    138  65000    1      5       yes     no      no      no 
+ 186   47  362822    210  65000    1      5       yes     no      no      no 
+ 156   47  303575    222  65000    1      5       yes     no      no      no 
+
+
+
+
+
+
+ Total jobs:  458	terminated:  449
+ % utilization   CPU:  89.47   disk:  86.74   drum:  27.04   memory:  82.54
